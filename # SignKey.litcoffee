@@ -17,12 +17,12 @@ The program detects:
 - A closed fist, which is also recognized as a gesture
 
 To retrieve your password, simply reproduce the same hand gestures.
-SingKey could also potentially be used for password recovery.
+SignKey could also potentially be used for password recovery.
 
 ---
 
 ## How to use
-1. Go to the website -->https://mohamediyadelkabli-collab.github.io/Singkey/
+1. Go to the website -->https://mohamediyadelkabli-collab.github.io/Signkey/
 2. When prompted, allow the following permissions:
    -  **Camera** — to detect your hand gestures
    -  **Motion sensor** — to track your movements
@@ -34,7 +34,7 @@ SingKey could also potentially be used for password recovery.
 6. To retrieve it later, visit the site and reproduce 
    the same gestures
 
-⚠️ **These permissions are required for SingKey to work properly.**
+⚠️ **These permissions are required for SignKey to work properly.**
 No installation required. Works directly in your browser.
 
 ---
@@ -45,7 +45,7 @@ No installation required. Works directly in your browser.
 ---
 
 ## Screenshots
-![SingKey screenshot](assets/screenshot.PNG)
+![SignKey screenshot](assets/screenshot.PNG)
 
 ---
 
