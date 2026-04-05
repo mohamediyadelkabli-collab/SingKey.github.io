@@ -1,4 +1,4 @@
-# SingKey
+# SignKey
 
 ## Author
 Created by **Mohamed Iyad El Kabli**
@@ -7,7 +7,7 @@ Created by **Mohamed Iyad El Kabli**
 ---
 
 ## Description
-SingKey is a web-based tool that generates an ultra-secure password 
+SignKey is a web-based tool that generates an ultra-secure password 
 based on your hand movements. The password is automatically copied 
 to your clipboard — no need to type or remember it.
 
@@ -17,7 +17,7 @@ The program detects:
 - A closed fist, which is also recognized as a gesture
 
 To retrieve your password, simply reproduce the same hand gestures.
-SingKey could also potentially be used for password recovery.
+SignKey could also potentially be used for password recovery.
 
 ---
 
@@ -34,7 +34,7 @@ SingKey could also potentially be used for password recovery.
 6. To retrieve it later, visit the site and reproduce 
    the same gestures
 
-⚠️ **These permissions are required for SingKey to work properly.**
+⚠️ **These permissions are required for SignKey to work properly.**
 No installation required. Works directly in your browser.
 
 ---
